@@ -1,0 +1,2 @@
+language = "java10"
+run = "cd Labs/lab1 && javac FindDuplicateCount.java && java FindDuplicateCount"
